@@ -1,5 +1,5 @@
 # American-Sign-Language-CV
-CNN learns to recognize the American Sign language
+CNN learns to recognize the American Sign language.
 Convolutional Neural Networks have taken the world by storm in the last couple of years and its usage has increased multi-fold in all spheres of the ML industry.
 
 This model was trained on 72000 sample images of various letters in the ASL alphabet with around 65000 used for training and the remaining for testing. The model was trained using various layers in the CNN, coupled with Dropouts and Batch Normalization to reduce overfitting.
